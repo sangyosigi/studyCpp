@@ -27,11 +27,13 @@ public:
 
 int main()
 {
-	Human boy("김수한무거북이와두루미", 12);
+	/*Human boy("김수한무거북이와두루미", 12);
 	boy.intro();
 
 	Human* leo;
 	leo = new Human("레오나르도 디카프리오", 47);
 	leo->intro();
-	delete leo;
+	delete leo;*/
+
+
 }
