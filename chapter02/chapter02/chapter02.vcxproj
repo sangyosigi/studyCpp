@@ -142,6 +142,7 @@
     <ClCompile Include="carclass.cpp" />
     <ClCompile Include="humancopy.cpp" />
     <ClCompile Include="newhuman.cpp" />
+    <ClCompile Include="objcount.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
